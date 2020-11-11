@@ -4,13 +4,18 @@
 
 }
 
-div{
-    margin:auto;
+.text_hello{
+    margin: 10px;
+    border: 12px dashed rebeccapurple;
+    padding: 20px;
+    background-color: bisque;
 }
+
 .content{
     box-sizing: border-box;
     min-height: 100%;
 }
+
 .corrupti{
     /* font-weight: bold; */
     /* font-weight: bolder; */
@@ -21,8 +26,7 @@ div{
 } */
 .footer{
     margin:20px 10px;
-    border: 1px ;
+    border: 1px dashed rebeccapurple;
     position: absolute;
     bottom: 0;
-
 }
