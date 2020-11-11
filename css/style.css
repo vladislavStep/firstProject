@@ -1,0 +1,28 @@
+* {
+    margin: auto;
+    padding: 0;
+
+}
+
+div{
+    margin:auto;
+}
+.content{
+    box-sizing: border-box;
+    min-height: 100%;
+}
+.corrupti{
+    /* font-weight: bold; */
+    /* font-weight: bolder; */
+    font-weight: 900;
+}
+/* span{
+    font-weight: 900;
+} */
+.footer{
+    margin:20px 10px;
+    border: 1px ;
+    position: absolute;
+    bottom: 0;
+
+}
